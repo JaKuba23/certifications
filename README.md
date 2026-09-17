@@ -108,6 +108,16 @@ Issued August 2025 &middot; Uniwersytet Gdański &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/3d7a1e84dd164d3f9077b02d3b6530b1)
 
+<br>
+
+### Podstawy języka Javascript (JavaScript Fundamentals)
+
+<img src="assets/javascript-fundamentals.png" alt="NAVOICA certificate: Podstawy języka Javascript, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Uniwersytet Gdański &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/787b0ccad3e7445190c8463c48648184)
+
 </div>
 
 <div align="center">
