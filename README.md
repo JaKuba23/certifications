@@ -68,6 +68,16 @@ Issued August 2025 &middot; Politechnika Białostocka &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/4b4655a23481400cbae539a109becbc0)
 
+<br>
+
+### Podstawy sztucznej inteligencji (Fundamentals of Artificial Intelligence)
+
+<img src="assets/ai-fundamentals.png" alt="NAVOICA certificate: Podstawy sztucznej inteligencji, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; OPI-PIB &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/c59cf579c04f4b7cb3e49b472956e127)
+
 </div>
 
 <div align="center">
