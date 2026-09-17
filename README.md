@@ -98,6 +98,16 @@ Issued August 2025 &middot; Zachodniopomorska Szkoła Biznesu &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/f36e75e5eadf48ba9655cf6348a78e2e)
 
+<br>
+
+### Python dla początkujących (Python for Beginners)
+
+<img src="assets/python-for-beginners.png" alt="NAVOICA certificate: Python dla początkujących, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Uniwersytet Gdański &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/3d7a1e84dd164d3f9077b02d3b6530b1)
+
 </div>
 
 <div align="center">
