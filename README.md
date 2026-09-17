@@ -118,6 +118,16 @@ Issued August 2025 &middot; Uniwersytet Gdański &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/787b0ccad3e7445190c8463c48648184)
 
+<br>
+
+### Wprowadzenie do testowania oprogramowania (Introduction to Software Testing)
+
+<img src="assets/intro-to-software-testing.png" alt="NAVOICA certificate: Wprowadzenie do testowania oprogramowania, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Zachodniopomorska Szkoła Biznesu &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/bac43b7ae3f2457889ec91f78d32482a)
+
 </div>
 
 <div align="center">
