@@ -18,6 +18,16 @@ Issued June 2026 &middot; Valid through June 2027 &middot; Credential ID `FE2921
 
 <br>
 
+## All Certifications
+
+### Ethical Hacker
+
+<img src="assets/ethical-hacker.png" alt="Cisco Networking Academy Ethical Hacker badge issued to Jakub Mazurkiewicz" width="720">
+
+Issued October 2025 &middot; Cisco Networking Academy
+
+[![Verify Credential](https://img.shields.io/badge/Credly-Verify%20Credential-1BA0D7?style=for-the-badge)](https://www.credly.com/badges/1263d345-23ad-455e-a780-f3e4a01273f6)
+
 </div>
 
 <div align="center">
