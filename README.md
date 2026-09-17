@@ -28,6 +28,16 @@ Issued October 2025 &middot; Cisco Networking Academy
 
 [![Verify Credential](https://img.shields.io/badge/Credly-Verify%20Credential-1BA0D7?style=for-the-badge)](https://www.credly.com/badges/1263d345-23ad-455e-a780-f3e4a01273f6)
 
+<br>
+
+### Python Essentials 2
+
+<img src="assets/python-essentials-2.png" alt="Cisco / OpenEDG Python Essentials 2 badge issued to Jakub Mazurkiewicz" width="720">
+
+Issued October 2025 &middot; Cisco / OpenEDG Python Institute
+
+[![Verify Credential](https://img.shields.io/badge/Credly-Verify%20Credential-1BA0D7?style=for-the-badge)](https://www.credly.com/badges/59c85c5e-14a6-46c7-855c-b1c8c4de5105/public_url)
+
 </div>
 
 <div align="center">
