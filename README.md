@@ -128,6 +128,16 @@ Issued August 2025 &middot; Zachodniopomorska Szkoła Biznesu &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/bac43b7ae3f2457889ec91f78d32482a)
 
+<br>
+
+### Matematyka finansowa (Financial Mathematics)
+
+<img src="assets/financial-mathematics.png" alt="NAVOICA certificate: Matematyka finansowa, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Akademia Ekonomiczno-Humanistyczna w Warszawie &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/a3a7446f3e3647ec8a18bc2f6b421311)
+
 </div>
 
 <div align="center">
