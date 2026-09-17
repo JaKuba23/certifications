@@ -88,6 +88,16 @@ Issued August 2025 &middot; Politechnika Białostocka &middot; NAVOICA
 
 [![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/f1511cffa8034d62b7afd510eeadf870)
 
+<br>
+
+### Podstawy programowania C++ (C++ Programming Fundamentals)
+
+<img src="assets/cpp-programming-fundamentals.png" alt="NAVOICA certificate: Podstawy programowania C++, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Zachodniopomorska Szkoła Biznesu &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/f36e75e5eadf48ba9655cf6348a78e2e)
+
 </div>
 
 <div align="center">
