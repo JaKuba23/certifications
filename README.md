@@ -48,6 +48,16 @@ Issued July 2025 &middot; HackerRank
 
 [![Verify Credential](https://img.shields.io/badge/HackerRank-Verify%20Credential-2EC866?style=for-the-badge)](https://www.hackerrank.com/certificates/987eb1debc5a)
 
+<br>
+
+### Python Developer
+
+<img src="assets/sololearn-python-developer.png" alt="Sololearn Python Developer certificate issued to Jakub Mazurkiewicz" width="720">
+
+Issued July 2025 &middot; Sololearn
+
+[![Verify Credential](https://img.shields.io/badge/Sololearn-Verify%20Credential-12A594?style=for-the-badge)](https://www.sololearn.com/de/certificates/CC-XVWKMZ7U)
+
 </div>
 
 <div align="center">
