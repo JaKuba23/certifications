@@ -58,6 +58,16 @@ Issued July 2025 &middot; Sololearn
 
 [![Verify Credential](https://img.shields.io/badge/Sololearn-Verify%20Credential-12A594?style=for-the-badge)](https://www.sololearn.com/de/certificates/CC-XVWKMZ7U)
 
+<br>
+
+### Techniki zabezpieczania danych w Internecie (Internet Data Security Techniques)
+
+<img src="assets/internet-data-security.png" alt="NAVOICA certificate: Techniki zabezpieczania danych w Internecie, issued to Jakub Mazurkiewicz" width="720">
+
+Issued August 2025 &middot; Politechnika Białostocka &middot; NAVOICA
+
+[![Verify Credential](https://img.shields.io/badge/NAVOICA-Verify%20Credential-6E5AA0?style=for-the-badge)](https://navoica.pl/certificates/4b4655a23481400cbae539a109becbc0)
+
 </div>
 
 <div align="center">
