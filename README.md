@@ -38,6 +38,16 @@ Issued October 2025 &middot; Cisco / OpenEDG Python Institute
 
 [![Verify Credential](https://img.shields.io/badge/Credly-Verify%20Credential-1BA0D7?style=for-the-badge)](https://www.credly.com/badges/59c85c5e-14a6-46c7-855c-b1c8c4de5105/public_url)
 
+<br>
+
+### Python (Basic)
+
+<img src="assets/python-basic-hackerrank.png" alt="HackerRank Python (Basic) certificate issued to Jakub Mazurkiewicz" width="720">
+
+Issued July 2025 &middot; HackerRank
+
+[![Verify Credential](https://img.shields.io/badge/HackerRank-Verify%20Credential-2EC866?style=for-the-badge)](https://www.hackerrank.com/certificates/987eb1debc5a)
+
 </div>
 
 <div align="center">
